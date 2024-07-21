@@ -1,4 +1,4 @@
-# Key Answer for Gold Challenge on Binar Academy Data Science Bootcamp
+
 
 #### Setup
 
